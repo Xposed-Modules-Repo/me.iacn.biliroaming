@@ -55,3 +55,10 @@ https://github.com/yujincheng08/BiliRoaming/wiki#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%
 Telegram: [@biliroaming](https://t.me/biliroaming)
 ### License
 [GNU General Public License, version 3](LICENSE)
+
+
+### 测试代码高亮
+
+```javascript
+const response = await fetch('www.google.com'); // fetch google
+```
