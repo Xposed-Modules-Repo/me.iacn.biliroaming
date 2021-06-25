@@ -16,7 +16,7 @@ An Xposed module that unblocks bangumi area limit of BILIBILI, and miscellaneous
 - ~概念版添加直播入口~
 - 不以小程序形式分享
 - 自动点赞视频
-- 把我的页面移到侧边栏
+- 把*我的*页面移到**侧边栏**
 - 替换音乐状态栏为原生样式
 - 提取视频、直播封面
 - 自定义屏启动图
